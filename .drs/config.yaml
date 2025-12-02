@@ -1,0 +1,7 @@
+current_server: gen3
+servers:
+    gen3:
+        endpoint: https://calypr-dev.ohsu.edu
+        profile: calypr-dev
+        project_id: cbds-monorepos
+        bucket: calypr
