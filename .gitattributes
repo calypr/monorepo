@@ -17,3 +17,4 @@ TCGA-PRAD/** filter=lfs diff=lfs merge=lfs -text
 TCGA-READ/** filter=lfs diff=lfs merge=lfs -text
 TCGA-SARC/** filter=lfs diff=lfs merge=lfs -text
 TCGA-SKCM/** filter=lfs diff=lfs merge=lfs -text
+TCGA-STAD/** filter=lfs diff=lfs merge=lfs -text
