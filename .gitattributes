@@ -1,3 +1,4 @@
 TARGET-ALL-P2/** filter=lfs diff=lfs merge=lfs -text
 TCGA-GBM/** filter=lfs diff=lfs merge=lfs -text
 TCGA-HNSC/** filter=lfs diff=lfs merge=lfs -text
+TCGA-KICH/** filter=lfs diff=lfs merge=lfs -text
