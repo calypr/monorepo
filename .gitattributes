@@ -7,3 +7,4 @@ TCGA-KIRP/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LAML/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LGG/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LIHC/** filter=lfs diff=lfs merge=lfs -text
+TCGA-LUAD/** filter=lfs diff=lfs merge=lfs -text
