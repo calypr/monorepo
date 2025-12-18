@@ -13,3 +13,4 @@ TCGA-MESO/** filter=lfs diff=lfs merge=lfs -text
 TCGA-OV/** filter=lfs diff=lfs merge=lfs -text
 TCGA-PAAD/** filter=lfs diff=lfs merge=lfs -text
 TCGA-PCPG/** filter=lfs diff=lfs merge=lfs -text
+TCGA-PRAD/** filter=lfs diff=lfs merge=lfs -text
