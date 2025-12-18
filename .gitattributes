@@ -9,3 +9,4 @@ TCGA-LGG/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LIHC/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LUAD/** filter=lfs diff=lfs merge=lfs -text
 TCGA-LUSC/** filter=lfs diff=lfs merge=lfs -text
+TCGA-MESO/** filter=lfs diff=lfs merge=lfs -text
