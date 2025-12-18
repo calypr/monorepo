@@ -21,3 +21,4 @@ TCGA-STAD/** filter=lfs diff=lfs merge=lfs -text
 TCGA-TGCT/** filter=lfs diff=lfs merge=lfs -text
 TCGA-THCA/** filter=lfs diff=lfs merge=lfs -text
 TCGA-THYM/** filter=lfs diff=lfs merge=lfs -text
+TCGA-UVM/** filter=lfs diff=lfs merge=lfs -text
