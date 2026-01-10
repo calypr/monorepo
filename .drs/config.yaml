@@ -1,0 +1,7 @@
+default_remote: calypr-dev
+remotes:
+    calypr-dev:
+        gen3:
+            endpoint: https://calypr-dev.ohsu.edu
+            project_id: cbds-monorepos
+            bucket: cbds
